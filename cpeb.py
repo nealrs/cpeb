@@ -11,8 +11,7 @@ su = os.environ['su']
 sp = os.environ['sp']
 
 # event & organizer parameters
-
-uk = '1415998876128238792681'
+uk = '1415998876128238792681' # this is all test key data & not that sensitive, but don't be a dick.
 eid = '14383737145'
 o = {'first':'Taylor', 'last':'Swift', 'email':'foo@b.ar'}
 u = 'http://ibmhadoop.challengepost.com'
