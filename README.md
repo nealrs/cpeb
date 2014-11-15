@@ -8,14 +8,14 @@ After retrieving event info & attendee contact info, this script sends them an e
 
 ## Eventbrite variables
 
-- `ak` - app API key for THIS script
+- `ak` - app API key for this script _(environment variable)_
 - `uk` - user API key for event organizer
 - `eid` - event ID
 
 ## Sendgrid variables
 
-- `su` - sendgrid username
-- `sp` = sendgrid password
+- `su` - sendgrid username _(environment variable)_
+- `sp` = sendgrid password _(environment variable)_
 - `o` - organizer [first, last, email] << ideally pulled from CP site
 - `u` - event ChallengePost URL << ideally pulled from CP site
 
