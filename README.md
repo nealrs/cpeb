@@ -21,9 +21,9 @@ After retrieving event info & attendee contact info, this script sends them an e
 
 ## To do
 
-1. Create web interface / scheduler that accepts uk, eid, o, and u parameters.
+1. Create web interface / scheduler that accepts uk, eid, o, and u parameters
 2. Improve template copy & styling
-3. Migrate from Sendgrid to Customer.io if possible.
+3. Migrate from Sendgrid to Customer.io if possible
 4. Add logging
 5. Profit???
 
